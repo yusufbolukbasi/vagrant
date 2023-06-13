@@ -1,2 +1,2 @@
 # vagrant
-Vagrant examples and doc
+![Vagrant CheatSheet](assets/vagrant-cheatsheet.png)
